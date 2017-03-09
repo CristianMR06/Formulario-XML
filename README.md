@@ -14,4 +14,9 @@ El examen debe estar compuesto por 10 preguntas de 5 tipos distintos.
 				2 tipo Checkbox: Hay al menos una opción correcta
 				2 tipo Select múltiple: Hay al menos una opción correcta
 				2 tipo Select simple: Selecciona una opción de la lista
+				Radio
+Text
+Checkbox
+Select simple
+Select múltiple
 	
