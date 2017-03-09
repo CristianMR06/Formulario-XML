@@ -9,14 +9,9 @@ Previsualización: https://rawgit.com/CristianMR06/Formulario-XML/master/index.h
 # Requisitos minimos 
 
 El examen debe estar compuesto por 10 preguntas de 5 tipos distintos.
-				2 tipo Texto: Debes escribir la respuesta
-				2 tipo Radio: Solo hay una única opción correcta
-				2 tipo Checkbox: Hay al menos una opción correcta
-				2 tipo Select múltiple: Hay al menos una opción correcta
-				2 tipo Select simple: Selecciona una opción de la lista
-				Radio
-Text
-Checkbox
-Select simple
-Select múltiple
-	
+				2 tipo Texto: Debe escribir la respuesta. 
+				2 tipo Radio: Solo hay una única opción correcta. 
+				2 tipo Checkbox: Hay al menos una opción correcta. 
+				2 tipo Select múltiple: Hay al menos una opción correcta. 
+				2 tipo Select simple: Debe seleccionr una opción de la lista. 
+
