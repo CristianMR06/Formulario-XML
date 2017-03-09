@@ -22,4 +22,4 @@ Se añaden las instrucciones y la información acerca del examen.<br>
 Antes de iniciar el examen, aparece una alerta donde indica si estamos seguros de iniciar el examen.<br>
 El usuario no podrá corregir el examen si aún hay preguntas pendientes por contestar.<br>
 Una vez contestadas todas las preguntas, si el usuario hace clic sobre el botón de Corregir, aparecerá una alerta donde pregunta al usuario si está seguro de corregir el examen.<br>
-Una vez correfido el examén, se le indicará al usuario si lo ha aprobado o suspendido.
+Una vez corregido el examen, se le indicará al usuario si lo ha aprobado o suspendido.
