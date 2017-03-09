@@ -7,19 +7,19 @@
 
 	<question id="PR_01">
 		<type>text</type>
-		<title>1.- ¿Cuál jugador inventó la expresión “jogo bonito”?</title>
+		<title>3.- ¿Cuál jugador inventó la expresión “jogo bonito”?</title>
 		<answer>Pelé</answer>
 	</question>
 
     <question id="PR_02">
 		<type>text</type>
-		<title>2.- ¿En qué año ganó España el Mundial?</title>
+		<title>4.- ¿En qué año ganó España el Mundial?</title>
 		<answer>2010</answer>
 	</question>
 
 	<question id="PR_03">
 		<type>radio</type>
-		<title>3.- ¿Cuál es el país de origen del fútbol?</title>
+		<title>1.- ¿Cuál es el país de origen del fútbol?</title>
 		<option>España</option>
 		<option>Argentina</option>
 		<option>Japón</option>
@@ -29,7 +29,7 @@
 
     <question id="PR_04">
 		<type>radio</type>
-		<title>4.- ¿Cuántos mundiales suman Brasil y España?</title>
+		<title>2.- ¿Cuántos mundiales suman Brasil y España?</title>
 		<option>4</option>
 		<option>5</option>
 		<option>6</option>
@@ -62,7 +62,7 @@
 
 	<question id="PR_07">
 		<type>multiple</type>
-		<title>7.- ¿Cuáles son los mejores jugadores del mundo?</title>
+		<title>9.- ¿Cuáles son los mejores jugadores del mundo?</title>
 		<option>Cristiano Ronaldo</option>
         <option>Messi</option>
 		<option>Álvaro Arbeloa</option>
@@ -71,9 +71,9 @@
 		<answer>1</answer>
 	</question>	
 
-	<question id="PR_08">
+	<question id="PR_8">
 		<type>multiple</type>
-		<title>8.- ¿Cuáles equipos han sido campeones de Europa?</title>
+		<title>10.- ¿Cuáles equipos han sido campeones de Europa?</title>
 		<option>Real Madrid</option>
 		<option>Arsenal</option>
 		<option>Chelsea</option>
@@ -85,7 +85,7 @@
 
 	<question id="PR_09">
 		<type>select</type>
-		<title>9.- ¿Cuál es el mejor entrenador de 2016?</title>
+		<title>7.- ¿Cuál es el mejor entrenador de 2016?</title>
 		<option>Zidane</option>
 		<option>Luis Enrique</option>
 		<option>Simeone</option> 
@@ -94,8 +94,8 @@
 
 	<question id="PR_10">
 		<type>select</type>
-		<title>10.- ¿En qué año fue fundado el Sevilla FC?</title>
-		<option>1890</option>
+		<title>8.- ¿En qué año fue fundado el FC Barcelona?</title>
+		<option>1899</option>
 		<option>1905</option>
 		<option>1910</option>
 		<option>1911</option> 
