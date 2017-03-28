@@ -20,30 +20,30 @@
 	<question id="PR_03">
 		<type>radio</type>
 		<title>3.- ¿Cuál es el país de origen del fútbol?</title>
-		<option>España</option>
-		<option>Argentina</option>
-		<option>Japón</option>
-		<option>China</option>
+		<option>1) España</option>
+		<option>2) Argentina</option>
+		<option>3) Japón</option>
+		<option>4) China</option>
 		<answer>3</answer>
 	</question>
 
     <question id="PR_04">
 		<type>radio</type>
 		<title>4.- ¿Cuántos mundiales suman Brasil y España?</title>
-		<option>4</option>
-		<option>5</option>
-		<option>6</option>
-		<option>7</option>
+		<option>1) 4</option>
+		<option>2) 5</option>
+		<option>3) 6</option>
+		<option>4) 7</option>
 		<answer>2</answer>
 	</question>
 
 	<question id="PR_05">
 		<type>checkbox</type>
 		<title>5.- Marca los jugadores que hayan ganado el Balón de Oro</title>
-		<option>Messi</option>
-		<option>Zidane</option>
-		<option>Iniesta</option>
-		<option>Cristian Ronaldo</option>
+		<option>1) Messi</option>
+		<option>2) Zidane</option>
+		<option>3) Iniesta</option>
+		<option>4) Cristian Ronaldo</option>
 		<answer>0</answer>
 		<answer>1</answer>
 		<answer>3</answer>
@@ -52,10 +52,10 @@
     <question id="PR_06">
 		<type>checkbox</type>
 		<title>6.- ¿Qué equipos juegan en España?</title>
-		<option>Real Mallorca</option>
-		<option>Deportivo Alianza</option>
-		<option>Atletico Sevilla</option>
-		<option>Emelec</option>
+		<option>1) Real Mallorca</option>
+		<option>2) Deportivo Alianza</option>
+		<option>3) Atletico Sevilla</option>
+		<option>4) Emelec</option>
 		<answer>0</answer>
 		<answer>2</answer>
 	</question>
@@ -63,10 +63,10 @@
 	<question id="PR_07">
 		<type>multiple</type>
 		<title>7.- ¿Cuáles son los mejores jugadores del mundo?</title>
-		<option>Cristiano Ronaldo</option>
-        <option>Messi</option>
-		<option>Álvaro Arbeloa</option>
-		<option>Alex Song</option>
+		<option>1) Cristiano Ronaldo</option>
+        	<option>2) Messi</option>
+		<option>3) Álvaro Arbeloa</option>
+		<option>4) Alex Song</option>
 		<answer>0</answer>
 		<answer>1</answer>
 	</question>	
@@ -74,31 +74,31 @@
 	<question id="PR_08">
 		<type>multiple</type>
 		<title>8.- ¿Cuáles equipos han sido campeones de Europa?</title>
-		<option>Real Madrid</option>
-		<option>Arsenal</option>
-		<option>Chelsea</option>
-		<option>AC Milan</option>
+		<option>1) Real Madrid</option>
+		<option>2) Arsenal</option>
+		<option>3) Chelsea</option>
+		<option>4) AC Milan</option>
 		<answer>0</answer>
 		<answer>2</answer>
-        <answer>3</answer>
+        	<answer>3</answer>
 	</question>	
 
 	<question id="PR_09">
 		<type>select</type>
 		<title>9.- ¿Cuál es el mejor entrenador de 2016?</title>
-		<option>Zidane</option>
-		<option>Luis Enrique</option>
-		<option>Simeone</option> 
+		<option>1) Zidane</option>
+		<option>2) Luis Enrique</option>
+		<option>3) Simeone</option> 
 		<answer>2</answer>
 	</question>
 
 	<question id="PR_10">
 		<type>select</type>
 		<title>10.- ¿En qué año fue fundado el Sevilla FC?</title>
-		<option>1890</option>
-		<option>1905</option>
-		<option>1910</option>
-		<option>1911</option> 
+		<option>1) 1890</option>
+		<option>2) 1905</option>
+		<option>3) 1910</option>
+		<option>4) 1911</option> 
 		<answer>0</answer>
 	</question>
 
